@@ -68,9 +68,9 @@ function Career({ visible }) {
               <img
                 src='https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Best-Product-Based-Companies-for-Game-Developers.webp'
                 alt="Career Image 4"
-                style={fourthImageStyle}
+                style={{ ...imageSize, marginBottom: '20px'}}
               />
-              <p>Best Product-Based Companies for Game Developers in 2023</p>
+              <p> Product-Based Companies for Game Developers in 2023</p>
             </div>
             <div>
               <img
@@ -78,7 +78,7 @@ function Career({ visible }) {
                 alt="Career Image 5"
                 style={{ ...imageSize, ...marginBottomStyle }}
               />
-              <p>Software Developer vs Software Engineer: Who is More Important in 2023?</p>
+              <p>Software Developer vs Software Engineer: Who is More Important</p>
             </div>
             <div>
               <img

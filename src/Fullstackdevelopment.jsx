@@ -60,7 +60,7 @@ function Fullstackdevelopment({ visible }) {
                 alt="Fullstackdevelopment Image 3"
                 style={{ ...imageSize, marginBottom: '20px' }}
               />
-              <p>Top Differences: Full Stack Developer vs Software Engineer 2023</p>
+              <p>Top Differences: Full Stack Developer vs Software Engineer</p>
             </div>
           </div>
 
@@ -70,9 +70,9 @@ function Fullstackdevelopment({ visible }) {
               <img
                 src='https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023-2048x1072.png'
                 alt="Fullstackdevelopment Image 4"
-                style={{ ...imageSize, marginBottom: '20px', marginLeft: '50px' }}
+                style={{ ...imageSize, marginBottom: '20px', marginLeft: '20px' }}
               />
-              <p>The Top 10 Tools Every Full-Stack Developer Should Master in 2023</p>
+              <p>The Top 10 Tools Every Full-Stack Developer Should Master</p>
             </div>
 
             <div style={imageContainerStyle}>
@@ -81,7 +81,7 @@ function Fullstackdevelopment({ visible }) {
                 alt="Fullstackdevelopment Image 5"
                 style={{ ...imageSize, marginBottom: '20px' }}
               />
-              <p>The Ultimate Guide to Real-World Full-Stack Development Applications</p>
+              <p>The Ultimate Guide to Real-World Full-Stack Development</p>
             </div>
 
             <div style={imageContainerStyle}>
