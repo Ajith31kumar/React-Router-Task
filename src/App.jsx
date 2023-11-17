@@ -80,7 +80,7 @@ function App() {
         </nav>
       </div>
       <Routes>
-        <Route path="/All" element={<All visible={imageVisibility.all} />} />
+        <Route path="/" element={<All visible={imageVisibility.all} />} />
         <Route
           path="/Fullstackdevelopment"
           element={<Fullstackdevelopment visible={imageVisibility.fullstackdevelopment} />}
