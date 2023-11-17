@@ -42,7 +42,7 @@ function Cybersecurity({ visible }) {
 
             <div style={imageContainerStyle}>
               <img
-                src='https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif'
+                src='https://www.kaspersky.com/content/en-global/images/repository/isc/2017-images/What-is-Cyber-Security.jpg'
                 alt="Cybersecurity Image 2"
                 style={{ ...imageSize, marginBottom: '20px' }}
               />
@@ -51,7 +51,7 @@ function Cybersecurity({ visible }) {
 
             <div style={imageContainerStyle}>
               <img
-                src='https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif'
+                src='https://media.licdn.com/dms/image/D5612AQE0r5WC8r0HQg/article-cover_image-shrink_720_1280/0/1657711469335?e=2147483647&v=beta&t=y46kqfqImgi-IbshBGRs3lMz1HCTBvL8RjFAILShitg'
                 alt="Cybersecurity Image 3"
                 style={{ ...imageSize, marginBottom: '20px' }}
               />
@@ -63,7 +63,7 @@ function Cybersecurity({ visible }) {
           <div style={rowStyle}>
             <div style={imageContainerStyle}>
               <img
-                src='https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact.jpg'
+                src='https://focus.namirial.global/wp-content/uploads/sites/4/2023/06/ai-in-cybersecurity.jpeg'
                 alt="Cybersecurity Image 4"
                 style={{ ...imageSize, marginBottom: '20px' }}
               />
@@ -72,7 +72,7 @@ function Cybersecurity({ visible }) {
 
             <div style={imageContainerStyle}>
               <img
-                src='https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-2048x1072.png'
+                src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-MtQrTz_lUK_haO0nmNgrHu72Cd1QbPbIPQ&usqp=CAU'
                 alt="Cybersecurity Image 5"
                 style={{ ...imageSize, marginBottom: '20px' }}
               />
