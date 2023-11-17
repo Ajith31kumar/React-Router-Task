@@ -81,6 +81,7 @@ function App() {
       </div>
       <Routes>
         <Route path="/" element={<All visible={imageVisibility.all} />} />
+        <Route path="/All" element={<All visible={imageVisibility.all} />} />
         <Route
           path="/Fullstackdevelopment"
           element={<Fullstackdevelopment visible={imageVisibility.fullstackdevelopment} />}
