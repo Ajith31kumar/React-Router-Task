@@ -41,7 +41,7 @@ function All({ visible }) {
 
             <div style={imageContainerStyle}>
               <img
-                src='https://www.guvi.in/blog/wp-content/uploads/2023/10/programming-background-with-person-working-with-codes-computer-2-2048x1024.jpg'
+                src='https://blogs.iadb.org/caribbean-dev-trends/wp-content/uploads/sites/34/2017/12/Blockchain1.jpg'
                 alt="All Image 2"
                 style={imageSize}
               />
@@ -80,7 +80,7 @@ function All({ visible }) {
 
             <div style={imageContainerStyle}>
               <img
-                src='https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Software-Developer-vs-Software-Engineer.jpg'
+                src='https://www.mindinventory.com/blog/wp-content/uploads/2021/03/mobile-app-design-fundamentals-the-difference-between-UI-and-UX.webp'
                 alt="All Image 6"
                 style={imageSize}
               />
